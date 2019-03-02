@@ -1,0 +1,11 @@
+print ("Hello there")
+#float for points,int for numbers
+print ("I am new to coding")
+print ("I can do easy math tasks")
+print ("For Example")
+print ("We have 10 cucumbers")
+print ("And 2 people that would like to get them")
+cucumbers=10
+people=2
+cucumbers_per_human=cucumbers/people
+print ("Every human should get")+str(cucumbers_per_human)+("cucumbers")
